@@ -13,4 +13,7 @@ public static void add(int a,int b,int c) {
 public static void multiply(int a, int b) {
 	System.out.println("Product is" +a*b);
 }
+public static void subtract(int a,int b) {
+	System.out.println("Result is :" +(a-b));
+}
 }
